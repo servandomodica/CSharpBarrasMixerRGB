@@ -1,0 +1,11 @@
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto137controlesColor\Proyecto137controlesColor\bin\Debug\Proyecto137controlesColor.exe.config
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto137controlesColor\Proyecto137controlesColor\bin\Debug\Proyecto137controlesColor.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto137controlesColor\Proyecto137controlesColor\bin\Debug\Proyecto137controlesColor.pdb
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto137controlesColor\Proyecto137controlesColor\obj\Debug\Proyecto137controlesColor.csprojAssemblyReference.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto137controlesColor\Proyecto137controlesColor\obj\Debug\Proyecto137controlesColor.Properties.Resources.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto137controlesColor\Proyecto137controlesColor\obj\Debug\Proyecto137controlesColor.SelectorDeColor.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto137controlesColor\Proyecto137controlesColor\obj\Debug\Proyecto137controlesColor.csproj.GenerateResource.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto137controlesColor\Proyecto137controlesColor\obj\Debug\Proyecto137controlesColor.csproj.CoreCompileInputs.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto137controlesColor\Proyecto137controlesColor\obj\Debug\Proyecto137controlesColor.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto137controlesColor\Proyecto137controlesColor\obj\Debug\Proyecto137controlesColor.pdb
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto137controlesColor\Proyecto137controlesColor\obj\Debug\Proyecto137controlesColor.Form1.resources
